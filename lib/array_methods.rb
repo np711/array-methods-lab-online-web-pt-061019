@@ -5,9 +5,10 @@ def using_include(array, element)
   (element)
 end
 
-def using_sort(array, element)
-array.sort?
-(element)
+def using_sort=["sort"]
+  using_sort
+  
+
 
 end
 
